@@ -8,4 +8,4 @@ Their ratings
 Which countries they can be streamed from
 How many movies and Tv shows are on the site
 The number of cast members
-Profits
+Profits.
